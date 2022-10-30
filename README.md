@@ -1,3 +1,3 @@
 # Blender Projects
 *hi*
-![Yardly Jones Tardis Final Render](YJT_Render.png)
+![Yardley Jones Tardis Final Render](Yardley_Jones_Tardis/YJT_Render.png)
